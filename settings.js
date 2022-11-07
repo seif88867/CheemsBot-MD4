@@ -11,14 +11,14 @@
 //hai to, description me xeon ka yt channel
 // ka link paste kr dena as a cradit or github 
 //repo me bhi tag kardena baki jo
-//bhi karna hai apki marzi, thank you!🦄
+//bhi karna hai apki marzi, thank you!🐦
 //════════════════════════════//
 //If you recode and uploading on your channel
 //or copy pasting the codes in ur script, 
 //i give permission to do as long as you
 //put Xeons youtube channel link in the video
 //description and tag me on githuh repo, 
-//thank you🦄
+//thank you🐦
 //════════════════════════════//
 
 const fs = require('fs')
@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['201098906252'] //ur owner number
-global.ownername = "𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑨𝑳𝑾𝑨𝒁𝑬𝑹🐼🍷 ٫" //ur owner name
-global.ytname = "YT: Elgazar" //ur yt chanel name
-global.socialm = "GitHub: Elgazar" //ur github or insta name
-global.location = "Egypt, Cairo, Aizawl" //ur location
+global.vcardowner = ['201554256811'] //ur owner number
+global.ownername = "𝑆𝐸𝐼𝐹 𝐻𝐴𝑁𝑌🐼🍷 ٫" //ur owner name
+global.ytname = "YT: MrBeast" //ur yt chanel name
+global.socialm = "Instagram: seifhany2019" //ur github or insta name
+global.location = "Egypt, Dakahlia, Mansoura" //ur location
 
 //bot bomdy 
-global.owner = ['201098906252']
-global.ownertag = '201098906252' //ur tag number
-global.botname = '𝑩𝑶𝑻 𝑬𝑳𝑮𝑨𝒁𝑨𝑹🐼🍷 ٫' //ur bot name
-global.linkz = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" //ur website to be displayed
-global.botscript = 'https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn' //script link
+global.owner = ['201554256811']
+global.ownertag = '201554256811' //ur tag number
+global.botname = '𝑩𝑶𝑻 𝑆𝐸𝐼𝐹🐼🍷 ٫' //ur bot name
+global.linkz = "https://wa.me/qr/OWNLZ3LMNFKED1" //your theme url which will be displayed on whatsapp
+global.websitex = "https://www.instagram.com/seifhany2019?r=nametag" //ur website to be displayed
+global.botscript = 'https://chat.whatsapp.com/FmjbftQBIq10fXH9SXywxk' //script link
 global.reactmoji = "🌚" //ur menu react emoji
-global.themeemoji = "🌞" //ur theme emoji
-global.packname = "⍣ الجزار الوزير يروحي ⍣" //ur sticker watermark packname
-global.author = "⍣01098906252⍣" //ur sticker watermark author
+global.themeemoji = "🐦" //ur theme emoji
+global.packname ="⍣ 𝑆𝐸𝐼𝐹 𝐻𝐴𝑁𝑌 ⍣" //ur sticker watermark packname
+global.author = "⍣01015913406⍣" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['201098906252'] //ur premium numbers
+global.premium = ['201554256811'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
